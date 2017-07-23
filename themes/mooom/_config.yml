@@ -219,8 +219,8 @@ ie_updater:
 # Tab Title Change | 标签页标题切换
 tab_title_change:
   on: true
-  left_tab_title: '(つェ⊂) 进入隐身~ '
-  return_tab_title: '(*´∇｀*) 我在这里~ '
+  left_tab_title: ' :) 进入隐身~ '
+  return_tab_title: '^_^ 我在这里~ '
 
 
 # >>> Vendors | 第三方工具 & 服务 <<<
