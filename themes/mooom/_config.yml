@@ -1,5 +1,5 @@
 # Theme Version | 当前版本
-Yelee: "3.5"
+mooom: "0"
 
 # >>> Basic Setup | 基础设置 <<<
 
@@ -8,10 +8,10 @@ Yelee: "3.5"
 ## Tags Cloud Page: `hexo new page tags`
 menu:
   主页: /
-  所有文章: /archives/
+  文章: /archives/
   #随笔: /tags/随笔
-  标签云: /tags/
-  关于我: /about/
+  标签: /tags/
+  关于: /about/
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
@@ -31,7 +31,7 @@ favicon: /favicon.png
 root_url:
 
 # Year of Site Creation | 网站成立年份
-since: 2016
+since: 2015
 
 # Social info. Bar | 社交信息展示
 ## Keep "mailto:" in Email | 设置 Email 时保留 "mailto:"
@@ -186,7 +186,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 吃饱没事干
+aboutme: 吃 饱 没 事 干
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
@@ -219,8 +219,8 @@ ie_updater:
 # Tab Title Change | 标签页标题切换
 tab_title_change:
   on: true
-  left_tab_title: ' :) 进入隐身~ '
-  return_tab_title: '^_^ 我在这里~ '
+  left_tab_title: 'O(∩_∩)O 快来点我~ '
+  return_tab_title: '*@ο@* 终于来了~ '
 
 
 # >>> Vendors | 第三方工具 & 服务 <<<
@@ -273,6 +273,12 @@ visit_counter:
 # GitHub Repo Widget
 # https://github.com/hustcc/GitHub-Repo-Widget.js
 github_widget: false
+
+# background settings
+# add canvas-nest effect
+# see detail from https://github.com/hustcc/canvas-nest.js
+canvas_nest: true
+
 
 # Progress Bar | 页面加载进度条
 # Demo: http://github.hubspot.com/pace/docs/welcome/
