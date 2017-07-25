@@ -1,5 +1,5 @@
 ---
-title: 寡人之于国也
+title: 《 寡人之于国也 》
 date: 2017-07-23 19:30:42
 tags: 文言文
 categories: 文学

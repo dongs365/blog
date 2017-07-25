@@ -1,5 +1,5 @@
 ---
-title: 劝 学
+title: 《 劝 学 》
 date: 2017-07-23 15:57:24
 tags: 文言文
 categories: 文学

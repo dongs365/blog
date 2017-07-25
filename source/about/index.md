@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 date: 2017-07-21 18:32:16
 ---
 ## Who am I ?
@@ -30,3 +30,4 @@ date: 2017-07-21 18:32:16
               ~0000MM0000~        
                 ~MM000M~          
 ```
+<script type="text/javascript" src="../js/love.js"></script>

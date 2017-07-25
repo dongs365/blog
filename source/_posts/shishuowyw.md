@@ -1,5 +1,5 @@
 ---
-title: 师 说
+title: 《 师 说 》
 date: 2017-07-23 14:25:09
 tags: 文言文
 categories: 文学
