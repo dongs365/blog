@@ -220,7 +220,7 @@ ie_updater:
 tab_title_change:
   on: true
   left_tab_title: 'O(∩_∩)O 快来点我~ '
-  return_tab_title: '*@ο@* 终于来了~ '
+  return_tab_title: '*@ο@* 终于点了~ '
 
 
 # >>> Vendors | 第三方工具 & 服务 <<<
