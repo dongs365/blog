@@ -4,6 +4,7 @@ date: 2017-07-25 15:53:59
 tags:
 - shell
 - 命令
+- 网络
 categories: Linux
 ---
 #### netstat命令用来打印Linux中网络系统的状态信息，可让你得知整个Linux系统的网络情况。
