@@ -7,11 +7,11 @@ mooom: "0"
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  主页: /
-  文章: /archives/
+  主 页: /
+  文 章: /archives/
   #随笔: /tags/随笔
-  标签: /tags/
-  关于: /about/
+  标 签: /tags/
+  关 于: /about/
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
