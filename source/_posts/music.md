@@ -35,7 +35,7 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
 ```
 {% aplayer "Caffeine" "Jeff Williams" "caffeine.mp3" "picture.jpg" "lrc:caffeine.txt" %}
 ```
-{% aplayer "匆匆那年" "王菲" "http://ou01t80jk.bkt.clouddn.com/%E5%8C%86%E5%8C%86%E9%82%A3%E5%B9%B4.m4a" "http://img.1ting.com/images/special/363/s300_82db64700c34712674445e797ce3eb33.jpg"  "autoplay=false" %}
+{% aplayer "Paranoid" "Black Sabbath" "http://ou01t80jk.bkt.clouddn.com/Paranoid.mp3" "http://p3.music.126.net/FYW8etVyFbfH8utWYk-KcA==/708085488295457.jpg?param=130y130"  "autoplay=false" %}
 
 
 ### 列表播放示例
@@ -45,7 +45,7 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
 	"narrow": false,						
     "autoplay": true,						
     "mode": "random",					
-    "showlrc": 3,							
+    "showlrc": 2,							
     "mutex": true,						
     "theme": "#e6d0b2",						
 	"preload": "metadata",				
@@ -84,7 +84,7 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
             "author": "朴树",
             "url": "http://ou01t80jk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.mp3",
             "pic": "http://p4.music.126.net/W_5XiCv3rGS1-J7EXpHSCQ==/18885211718782327.jpg?param=130y130",
-            "lrc": "caffeine.txt"
+            "lrc": "http://ou01t80jk.bkt.clouddn.com/pfzl.lrc"
         },
         {
             "title": "十年",
@@ -97,7 +97,13 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
             "author": "王菲",
             "url": "https://dn-linli580.qbox.me/%E5%8C%86%E5%8C%86%E9%82%A3%E5%B9%B4.m4a",
             "pic": "http://img.1ting.com/images/special/363/s300_82db64700c34712674445e797ce3eb33.jpg"
-        }
+        },
+				{
+						"title": "Young For You",
+						"author": "GALA",
+						"url": "http://ou01t80jk.bkt.clouddn.com/Young%C2%A0For%C2%A0You%20-%20GALA.mp3",
+						"pic": "http://p3.music.126.net/_g_52t_RLrYze2dNBkvHvg==/65970697682161.jpg?param=130y130"
+				}
     ]
 }
 {% endaplayerlist %}
