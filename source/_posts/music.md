@@ -35,7 +35,6 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
 ```
 {% aplayer "Caffeine" "Jeff Williams" "caffeine.mp3" "picture.jpg" "lrc:caffeine.txt" %}
 ```
-
 {% aplayer "Paranoid" "Black Sabbath" "http://ou01t80jk.bkt.clouddn.com/Paranoid.mp3" "http://p3.music.126.net/FYW8etVyFbfH8utWYk-KcA==/708085488295457.jpg?param=130y130" lrc:"http://ou01t80jk.bkt.clouddn.com/Paranoid.lrc" "autoplay=false" %}
 
 
