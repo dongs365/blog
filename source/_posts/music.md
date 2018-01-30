@@ -113,9 +113,9 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
 ### 示例
 ```
 {%
-dplayer "url=http://devtest.qiniudn.com/若能绽放光芒.mp4"
+dplayer "url=http://ou01ijyji.bkt.clouddn.com/fuckyou.mp4"
 "api=http://dplayer.daoapp.io"
-"pic=http://devtest.qiniudn.com/若能绽放光芒.png"
+"pic=http://p1.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130"
 "id=9E2E3368B56CDBB4"
 "loop=yes"
 "theme=#FADFA3"
@@ -124,4 +124,4 @@ dplayer "url=http://devtest.qiniudn.com/若能绽放光芒.mp4"
  %}
 ```
 
-{% dplayer "url=http://devtest.qiniudn.com/若能绽放光芒.mp4" "api=http://dplayer.daoapp.io" "pic=http://devtest.qiniudn.com/若能绽放光芒.png" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
+{% dplayer "url=http://ou01ijyji.bkt.clouddn.com/fuckyou.mp4" "api=http://dplayer.daoapp.io" "pic=http://p1.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
