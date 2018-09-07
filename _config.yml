@@ -78,5 +78,5 @@ theme: mooom
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dongs365/dongs365.github.io.git
+  repo: git@github.com:dongs365/dongs365.github.io.git
   branch: master
