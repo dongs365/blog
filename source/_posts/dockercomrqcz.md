@@ -5,6 +5,8 @@ tags:
   - docker
 categories: docker
 ---
+Docker 容器容器操作 查看、获取 。 <!-- more -->
+<!-- more -->
 ## docker ps
 列出容器
 ### 语法
@@ -62,4 +64,18 @@ docker events [OPTIONS]
 -f ：根据条件过滤事件；
 --since ：从指定的时间戳后显示所有事件;
 --until ：流水时间显示到指定的时间为止；
+```
+## docker logs
+获取容器的日志
+
+### 语法
+```
+docker logs [OPTIONS] CONTAINER
+```
+### OPTIONS说明：
+```
+-f : 跟踪日志输出
+--since :显示某个开始时间的所有日志
+-t : 显示时间戳
+--tail :仅列出最新N条容器日志
 ```
