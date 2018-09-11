@@ -3,7 +3,7 @@ title: docker命令 生命周期
 date: 2018-09-10 11:19:27
 tags:
   - docker
-categories: docker
+categories: linux
 ---
 Docker 容器生命周期管理 创建、启动、停止、重启、结束、暂停、恢复、创建、执行 。 <!-- more -->
 

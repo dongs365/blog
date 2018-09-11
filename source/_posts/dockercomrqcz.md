@@ -3,7 +3,7 @@ title: docker命令 容器操作
 date: 2018-09-10 11:48:14
 tags:
   - docker
-categories: docker
+categories: linux
 ---
 Docker 容器容器操作 查看、获取 。 <!-- more -->
 <!-- more -->
@@ -78,4 +78,28 @@ docker logs [OPTIONS] CONTAINER
 --since :显示某个开始时间的所有日志
 -t : 显示时间戳
 --tail :仅列出最新N条容器日志
+```
+## docker wait
+阻塞运行直到容器停止，然后打印出它的退出代码。
+
+### 语法
+```
+docker wait [OPTIONS] CONTAINER [CONTAINER...]
+```
+## docker export
+将文件系统作为一个tar归档文件导出到STDOUT。
+
+### 语法
+```
+docker export [OPTIONS] CONTAINER
+```
+### OPTIONS说明：
+```
+-o :将输入内容写到文件。
+```
+## docker port
+列出指定的容器的端口映射，或者查找将PRIVATE_PORT NAT到面向公众的端口。
+### 语法
+```
+docker port [OPTIONS] CONTAINER [PRIVATE_PORT[/PROTO]]
 ```
