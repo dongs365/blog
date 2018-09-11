@@ -32,18 +32,12 @@ docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 --expose=[]: 开放一个端口或一组端口；
 ```
 ## Docker start/stop/restart
-<<<<<<< HEAD
 ### docker start
 启动一个或多少已经被停止的容器
 ### docker stop
 停止一个运行中的容器
 ### docker restart
 重启容器
-=======
-### docker start :启动一个或多少已经被停止的容器
-### docker stop :停止一个运行中的容器
-### docker restart :重启容器
->>>>>>> 2b31de40d6e0dcb2eae0a252843dec1e5af0dc9f
 
 ### 语法
 ```
