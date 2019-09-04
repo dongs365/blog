@@ -1,1 +1,20 @@
 This is blog code
+
+1、拉取代码
+
+2、更新插件
+
+#安装hexo
+```
+npm install -g hexo-cli
+```
+#安装插件
+```
+npm install X –save
+```
+## 插件更新
+```
+npm install -g npm-check-updates
+ncr-u
+```
+## 更新hexo

@@ -80,3 +80,5 @@ deploy:
   type: git
   repo: git@github.com:dongs365/dongs365.github.io.git
   branch: master
+aplayer:
+  meting: true
