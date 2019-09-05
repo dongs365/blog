@@ -91,6 +91,12 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
             "author": "陈奕迅",
             "url": "http://blog.mooom.top/video/%E5%8D%81%E5%B9%B4.mp3",
             "pic": "http://p1.music.126.net/WJgLE2ImnLgqPPLQSlF7iQ==/114349209289440.jpg?param=130y130"
+        },
+                {
+            "title": "匆匆那年",
+            "author": "王菲",
+            "url": "http://blog.mooom.top/video/匆匆那年.m4a",
+            "pic": "http://p1.music.126.net/yXyeAl-7m0tqfx4AX7BDSQ==/2542070884980240.jpg?param=130y130"
         }
     ]
 }
@@ -100,7 +106,7 @@ lrc:xxx：可选，前缀lrc:，LRC文件url
 ### 示例
 ```
 {%
-dplayer "url=http://ou01ijyji.bkt.clouddn.com/fuckyou.mp4"
+dplayer "url=http://blog.mooom.top/fuckyou.mp4"
 "api=http://dplayer.daoapp.io"
 "pic=http://p1.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130"
 "id=9E2E3368B56CDBB4"
@@ -111,4 +117,4 @@ dplayer "url=http://ou01ijyji.bkt.clouddn.com/fuckyou.mp4"
  %}
 ```
 
-{% dplayer "url=http://blog.mooom.top/video/Lily Allen _ F You.mp4" "api=http://dplayer.daoapp.io" "pic=http://p1.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3"  "token=tokendemo" %}
+{% dplayer "url=http://blog.mooom.top/video/F You.mp4" "api=http://dplayer.daoapp.io" "pic=http://p1.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3"  "token=tokendemo" %}
