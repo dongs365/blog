@@ -1,5 +1,5 @@
 ---
-title: mysql-5.7部署
+title: mysql-server部署
 date: 2017-08-02 19:48:30
 tags:
 - mysql
