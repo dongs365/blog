@@ -1,5 +1,5 @@
 ---
-title: mongodb 部署
+title: mongodb
 date: 2017-08-02 16:31:59
 tags:
 - mongodb
