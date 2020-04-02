@@ -19,7 +19,7 @@ npm install X –save
 ###  插件更新
 ```
 npm install -g npm-check-updates
-ncr-u
+ncu -u
 ```
 ###  生成静态页面
 ```
