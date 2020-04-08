@@ -14,7 +14,7 @@ hexo -v
 ```
 ### 安装插件
 ```
-npm install X –save
+npm install x --save
 ```
 ###  插件更新
 ```
